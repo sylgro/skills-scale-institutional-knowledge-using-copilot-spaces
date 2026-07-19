@@ -66,7 +66,7 @@ OctoAcme follows an **iterative, outcome-driven approach** with clear roles and 
 ## Quick Reference: Key Artifacts
 
 | Artifact | Purpose | Owner | Cadence |
-|----------|---------|-------|---------|
+|----------|---------|-------|----------|
 | Project One-pager | Define problem, goal, success metrics | PM / PdM | Initiation |
 | Risk Register | Track and monitor identified risks | PM | Weekly |
 | Project Board | Visualize work flow and status | PM / Team | Ongoing |
